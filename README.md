@@ -80,6 +80,8 @@ After adding a screenshot, you can display it here by uncommenting the line belo
 
 The goal of this project is to demonstrate how retail data can be organized into an interactive executive view, making it easier to examine sales, profit, product, store, and inventory performance together.
 
+
+
 ## Author
 
 **Shubham Kumar Gaud**
