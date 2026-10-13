@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Retail Executive Dashboard | BlueMart
+# Retail Executive Dashboard | BlueMart
 
 An interactive retail analytics dashboard designed to explore sales, profit, product performance, store performance, and inventory trends using BlueMart retail data.
 
@@ -92,8 +90,3 @@ The goal of this project is to demonstrate how retail data can be organized into
 ---
 
 If you find this project useful, feel free to star the repository or share feedback.
-"""
-
-path = Path("/mnt/data/README_Retail_Executive_Dashboard.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
